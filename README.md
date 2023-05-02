@@ -1,5 +1,5 @@
 # Hi there! 👋
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=carlospolop&show_icons=true&theme=tokyonight" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=carlospolop&count_private=true&show_icons=true&theme=gruvbox" width="380">
 
 This is Carlos Polop: Pentester, developer and cybersecurity Researcher.
 
