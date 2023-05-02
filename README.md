@@ -7,6 +7,6 @@ I'm also the creator of [📓Hacktricks](https://book.hacktricks.xyz/) and [🌩
 
 I also create video content in [🎤Twitch - hacktricks_live](https://www.twitch.tv/hacktricks_live) and [🎥Youtube - hacktricks_live](https://www.youtube.com/@hacktricks_LIVE)
 
-For the latest news follow me in [🐦Twitter](https://twitter.com/carlospolopm) and [🔵Linkedin](https://www.linkedin.com/in/carlos-polop-martin/)
+For the latest news follow me in [🐦Twitter](https://twitter.com/hacktricks_live) and [🔵Linkedin](https://www.linkedin.com/in/carlos-polop-martin/)
 
 I hope you'll find something useful in my repos!
